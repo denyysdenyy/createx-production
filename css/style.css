@@ -2357,7 +2357,7 @@ body._lock {
   font-size: 16px;
 }
 .course-info__about-benefits-list li::before {
-  content: url(../../../img/Home/Home-about/home-about-list-type.svg);
+  content: url(../img/Home/Home-about/home-about-list-type.svg);
   top: 3px;
   position: relative;
   margin-right: 16px;
